@@ -4,7 +4,7 @@ import { z } from "zod";
 
 // Create an MCP server
 const server = new McpServer({
-  name: "Demo",
+  name: "Test",
   version: "1.0.0"
 });
 
