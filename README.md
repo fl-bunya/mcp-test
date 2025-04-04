@@ -1,15 +1,17 @@
-# mcp
+# mcp-test
 
-To install dependencies:
+Testアプリケーションのサンプル実装です。
+
+## インストール方法
 
 ```bash
 bun install
 ```
 
-To run:
+## 実行方法
 
 ```bash
 bun run index.ts
 ```
 
-This project was created using `bun init` in bun v1.1.25. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+このプロジェクトは `bun init` を使用して bun v1.1.25 で作成されました。[Bun](https://bun.sh) は高速なオールインワン JavaScript ランタイムです。
